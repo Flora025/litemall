@@ -1,0 +1,11 @@
+com/litemall/user/UserApplication.class
+com/litemall/user/mapper/UserMapper.class
+com/litemall/user/service/impl/UserServiceImpl.class
+com/litemall/user/service/UserService.class
+com/litemall/user/controller/AddressController.class
+com/litemall/user/service/impl/AddressServiceImpl.class
+com/litemall/user/config/UserConfiguration.class
+com/litemall/user/controller/UserController.class
+com/litemall/user/mapper/AddressMapper.class
+com/litemall/user/service/AddressService.class
+com/litemall/user/controller/UserAdminController.class

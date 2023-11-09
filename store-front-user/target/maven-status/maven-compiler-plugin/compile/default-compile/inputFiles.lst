@@ -1,0 +1,11 @@
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/controller/UserController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/controller/UserAdminController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/UserApplication.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/controller/AddressController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/service/UserService.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/mapper/AddressMapper.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/config/UserConfiguration.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/service/impl/AddressServiceImpl.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/service/impl/UserServiceImpl.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/service/AddressService.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-user/src/main/java/com/atguigu/user/mapper/UserMapper.java

@@ -1,0 +1,5 @@
+com/litemall/collect/service/impl/CollectServiceImpl.class
+com/litemall/collect/CollectApplication.class
+com/litemall/collect/service/CollectService.class
+com/litemall/collect/controller/CollectController.class
+com/litemall/collect/mapper/CollectMapper.class

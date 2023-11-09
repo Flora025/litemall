@@ -1,0 +1,12 @@
+com/litemall/product/controller/ProductCartController.class
+com/litemall/product/controller/ProductSearchController.class
+com/litemall/product/service/impl/ProductServiceImpl.class
+com/litemall/product/service/ProductService.class
+com/litemall/product/mapper/PictureMapper.class
+com/litemall/product/controller/ProductAdminController.class
+com/litemall/product/ProductApplication.class
+com/litemall/product/mapper/ProductMapper.class
+com/litemall/product/listener/ProductRabbitMqListener.class
+com/litemall/product/config/ProductConfiguration.class
+com/litemall/product/controller/ProductController.class
+com/litemall/product/controller/ProductCollectController.class

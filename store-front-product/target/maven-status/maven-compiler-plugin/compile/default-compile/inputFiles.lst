@@ -1,0 +1,12 @@
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/mapper/ProductMapper.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/listener/ProductRabbitMqListener.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/service/impl/ProductServiceImpl.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/service/ProductService.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/ProductApplication.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/controller/ProductSearchController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/controller/ProductAdminController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/controller/ProductCollectController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/controller/ProductController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/config/ProductConfiguration.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/mapper/PictureMapper.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-product/src/main/java/com/atguigu/product/controller/ProductCartController.java

@@ -1,0 +1,7 @@
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-cart/src/main/java/com/atguigu/cart/config/CartConfiguration.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-cart/src/main/java/com/atguigu/cart/CartApplication.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-cart/src/main/java/com/atguigu/cart/service/impl/CartServiceImpl.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-cart/src/main/java/com/atguigu/cart/listener/CartRabbitMqListener.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-cart/src/main/java/com/atguigu/cart/mapper/CartMapper.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-cart/src/main/java/com/atguigu/cart/controller/CartController.java
+/Users/zhanghan/Documents/pre-pub-repo/litemall-microservice/代码/优化参考版本代码/b2c-store/store-front-cart/src/main/java/com/atguigu/cart/service/CartService.java

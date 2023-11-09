@@ -1,0 +1,6 @@
+com/litemall/category/controller/CategoryController.class
+com/litemall/category/service/impl/CategoryServiceImpl.class
+com/litemall/category/controller/CategoryAdminController.class
+com/litemall/category/mapper/CategoryMapper.class
+com/litemall/category/service/CategoryService.class
+com/litemall/category/CategoryApplication.class

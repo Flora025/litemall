@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: cart-service
+  cloud:
+    nacos:
+      server-addr: 114.55.74.33:8848 #注册中心
+server:
+  port: 3009

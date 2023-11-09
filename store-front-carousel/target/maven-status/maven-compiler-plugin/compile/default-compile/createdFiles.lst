@@ -1,0 +1,6 @@
+com/litemall/carousel/CarouselApplication.class
+com/litemall/carousel/config/CarouselConfiguration.class
+com/litemall/carousel/mapper/CarouselMapper.class
+com/litemall/carousel/service/CarouselService.class
+com/litemall/carousel/controller/CarouselController.class
+com/litemall/carousel/service/impl/CarouselServiceImpl.class

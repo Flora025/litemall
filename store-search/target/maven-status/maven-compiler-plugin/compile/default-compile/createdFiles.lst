@@ -1,0 +1,6 @@
+com/litemall/search/SearchApplication.class
+com/litemall/search/service/impl/SearchServiceImpl.class
+com/litemall/search/controller/SearchController.class
+com/litemall/search/service/SearchService.class
+com/litemall/search/config/SearchConfiguration.class
+com/litemall/search/listener/SpringBootListener.class
